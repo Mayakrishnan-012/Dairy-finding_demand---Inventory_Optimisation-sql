@@ -22,6 +22,6 @@ Source: OpenDataBay
 License: CC0 (Public Domain)
 
 ## Project Structure
-- sql/
 - data/
 - images/
+- sql/
