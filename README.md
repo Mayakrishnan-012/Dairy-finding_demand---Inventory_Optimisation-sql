@@ -20,8 +20,3 @@ This project analyses dairy supply chain data to optimise demand forecasting, in
 ## Dataset
 Source: OpenDataBay  
 License: CC0 (Public Domain)
-
-## Project Structure
-- data/
-- images/
-- sql/
